@@ -1,7 +1,3 @@
-﻿using System;
-using System.Diagnostics.CodeAnalysis;
-using System.Runtime.InteropServices;
-
 namespace _1KB9_GitDemo
 {
     internal class Program
